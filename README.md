@@ -1,5 +1,4 @@
-# robofriends
-Tutorial for udemy course - React
+Robo-buds
 To run the project:
 
 1. Clone this repo

@@ -1,9 +1,9 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Likith Bruh',
+    username: 'Bruhh',
+    email: 'Bruhhlc@april.biz'
   },
   {
     id: 2,
@@ -13,9 +13,9 @@ export const robots = [
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Karthik Yadav',
+    username: 'KYnibz',
+    email: 'KYnibzz@yesenia.net'
   },
   {
     id: 4,
@@ -25,9 +25,9 @@ export const robots = [
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Arjun Reddy',
+    username: 'Reddy',
+    email: 'Reddy_bro@annie.ca'
   },
   {
     id: 6,
@@ -43,9 +43,9 @@ export const robots = [
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Bharath G Shenoy',
+    username: 'BGS',
+    email: 'BGswamii@rosamond.me'
   },
   {
     id: 9,

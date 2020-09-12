@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Roboo_buds/static/css/main.83ed6c9b.chunk.css",
-    "main.js": "/Roboo_buds/static/js/main.0d951699.chunk.js",
-    "main.js.map": "/Roboo_buds/static/js/main.0d951699.chunk.js.map",
+    "main.js": "/Roboo_buds/static/js/main.b7b1ad9f.chunk.js",
+    "main.js.map": "/Roboo_buds/static/js/main.b7b1ad9f.chunk.js.map",
     "runtime-main.js": "/Roboo_buds/static/js/runtime-main.cf2cc349.js",
     "runtime-main.js.map": "/Roboo_buds/static/js/runtime-main.cf2cc349.js.map",
     "static/css/2.3c03f26f.chunk.css": "/Roboo_buds/static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js": "/Roboo_buds/static/js/2.e7e24cc0.chunk.js",
     "static/js/2.e7e24cc0.chunk.js.map": "/Roboo_buds/static/js/2.e7e24cc0.chunk.js.map",
     "index.html": "/Roboo_buds/index.html",
-    "precache-manifest.de28b200960fcf8c216d81f655165858.js": "/Roboo_buds/precache-manifest.de28b200960fcf8c216d81f655165858.js",
+    "precache-manifest.54ee52312dc6e632323b2d6b01880729.js": "/Roboo_buds/precache-manifest.54ee52312dc6e632323b2d6b01880729.js",
     "service-worker.js": "/Roboo_buds/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/Roboo_buds/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.83ed6c9b.chunk.css.map": "/Roboo_buds/static/css/main.83ed6c9b.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.e7e24cc0.chunk.js",
     "static/css/main.83ed6c9b.chunk.css",
-    "static/js/main.0d951699.chunk.js"
+    "static/js/main.b7b1ad9f.chunk.js"
   ]
 }

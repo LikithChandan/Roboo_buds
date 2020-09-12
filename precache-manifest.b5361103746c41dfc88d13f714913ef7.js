@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "166252338c5cf6f20d22bba2612ccd37",
+    "revision": "54c8b5dbc1a9d8cf50182f36a2f8694a",
     "url": "/Roboo_buds/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Roboo_buds/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "e88cff170d1111677047",
+    "revision": "65c122952499bf9afba6",
     "url": "/Roboo_buds/static/css/main.83ed6c9b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Roboo_buds/static/js/2.e7e24cc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e88cff170d1111677047",
-    "url": "/Roboo_buds/static/js/main.b7b1ad9f.chunk.js"
+    "revision": "65c122952499bf9afba6",
+    "url": "/Roboo_buds/static/js/main.44e4f6c3.chunk.js"
   },
   {
     "revision": "71d89ac17209d5d5e411",
